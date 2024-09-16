@@ -18,4 +18,4 @@ In this project, we utilize the LPC1768 microcontroller to implement a system th
 
 https://github.com/chinmayeebl/Embedded_Microcontrollers/assets/143340347/34f35a26-2b53-4795-9715-0eff08e37655
 
-Special thanks to @rohitbpatil , @chinmayeebl, and  for their invaluable contributions to this project.
+Special thanks to @rohitbpatil , @chinmayeebl, and @VinayaShetti for their invaluable contributions to this project.
