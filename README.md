@@ -12,9 +12,7 @@ In this project, we utilize the LPC1768 microcontroller to implement a system th
 - Tasks include PIR sensor input, LCD display, DC motor control, and UART communication.
 - Synchronization ensures coherent execution of tasks, avoiding discrepancies in data display.
 
-<p align="center">
-  <img src="pir_project_fdb.png" alt="Image 1"/>
-</p>
+
 
 https://github.com/chinmayeebl/Embedded_Microcontrollers/assets/143340347/34f35a26-2b53-4795-9715-0eff08e37655
 
